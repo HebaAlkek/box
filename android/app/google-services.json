@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517914368240",
+    "project_id": "boxs-6e849",
+    "storage_bucket": "boxs-6e849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517914368240:android:600ad263a6f454dce88a35",
+        "android_client_info": {
+          "package_name": "com.sysmatrix.box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517914368240-8v8de4s9m4b0gppgjurrah6k71thn7t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkbzPT-CzcCTqZSBwnqAcsX8O8aloIyxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517914368240-8v8de4s9m4b0gppgjurrah6k71thn7t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
