@@ -61,6 +61,7 @@ dependencies:
   flutter_typeahead:
   marquee:
   flutter_rating_bar:
+  flutter_launcher_icons:
 
 
 
@@ -68,7 +69,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+flutter_icons:
+  android: "logo"
+  ios: true
+  image_path: "assets/images/logo.png"
+  min_sdk_android: 21
 flutter:
   uses-material-design: true
 

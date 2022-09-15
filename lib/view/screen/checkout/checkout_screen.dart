@@ -1461,9 +1461,13 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
                               ),
                               child: Center(
                                   child: Text(getTranslated('APPLY', context),
-                                    style: titleRegular.copyWith(color: Theme
-                                        .of(context)
-                                        .cardColor,
+                                    style: titleRegular.copyWith(color: Color(int.parse('0xFF' +
+                                        Provider
+                                            .of<SplashProvider>(
+                                            context, listen: false)
+                                            .configModel
+                                            .font_color
+                                            .split('#')[1])),
                                         fontSize: Dimensions.FONT_SIZE_LARGE),
                                   ))),
                         ) : CircularProgressIndicator(

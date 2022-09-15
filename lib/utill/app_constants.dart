@@ -1,7 +1,7 @@
 import 'package:flutter_sixvalley_ecommerce/data/model/response/language_model.dart';
 
 class AppConstants {
-  static const String APP_NAME = 'Box';
+  static const String APP_NAME = 'Aljamil';
  // static const String BASE_URL = 'https://6valley.6amtech.com';
 // static const String BASE_URL = 'https://test.smartboardsb.com';
   static const String BASE_URL = 'https://wh.aljamiloptical.com.sa';
