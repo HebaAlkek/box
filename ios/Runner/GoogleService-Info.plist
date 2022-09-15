@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>975837518429-q55pudr659qujnlnkajhaeesqpqf1slk.apps.googleusercontent.com</string>
+	<string>517914368240-rvtg4gjl3nb62l6jpvpf30fh0qqid7j5.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.975837518429-q55pudr659qujnlnkajhaeesqpqf1slk</string>
-	<key>ANDROID_CLIENT_ID</key>
-	<string>975837518429-c373gg0tgmoihfavv7glcfq717i2vcvl.apps.googleusercontent.com</string>
+	<string>com.googleusercontent.apps.517914368240-rvtg4gjl3nb62l6jpvpf30fh0qqid7j5</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCpwXU-LIhoOnCp6h1Ixn0joCMrYtvF4Z0</string>
+	<string>AIzaSyDkfmpCKfTwgpu8vTnQSJKE1gAWPd4hZv8</string>
 	<key>GCM_SENDER_ID</key>
-	<string>975837518429</string>
+	<string>517914368240</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.sixamtech.sixValley</string>
+	<string>com.sysmatrix.box</string>
 	<key>PROJECT_ID</key>
-	<string>sixvally-ecommerce</string>
+	<string>boxs-6e849</string>
 	<key>STORAGE_BUCKET</key>
-	<string>sixvally-ecommerce.appspot.com</string>
+	<string>boxs-6e849.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:975837518429:ios:1ca748007153e5909f0bb4</string>
+	<string>1:517914368240:ios:efdf1d8b8db03de7e88a35</string>
 </dict>
 </plist>
